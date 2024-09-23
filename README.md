@@ -1,4 +1,4 @@
-Extracting-Split_Reads-from-SAM-file-to_Identify-Intronic-Junctions-in_Genes
+Extracting-Split_Reads-from-SAM-file-to_Identify-Intronic-Junctions-in-Genes
 ---
 This script extracts split reads from an alignment file to identify the locations of introns in genes. To run the script, two input files are required:
 1. A .sam file, a special format to hold alignments
